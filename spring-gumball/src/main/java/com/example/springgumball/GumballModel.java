@@ -8,9 +8,9 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 class GumballModel {
 
-    private String modelNumber;
-    private String serialNumber;
-    private Integer countGumballs;
+    private String modelNumber ;
+    private String serialNumber ;
+    private Integer countGumballs ;
     
 }
 
