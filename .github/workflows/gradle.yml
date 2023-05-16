@@ -16,12 +16,14 @@ jobs:
       with:
         java-version: '11'
         distribution: 'adopt'
-
-    - run: chmod +x gradlew
-    - run: ./gradlew build
-    - run: ls build/libs
+    
+    - working-directory: ./spring-gumball
+      run: |
+        chmod +x gradlew
+        ./gradlew build
+        ls build/libs
 
     - uses: actions/upload-artifact@v2.2.3
       with:
         name: spring-gumball
-        path: build/libs/spring-gumball-2.0.jar
+        path: spring-gumball/build/libs/spring-gumball-2.0.jar
