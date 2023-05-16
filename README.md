@@ -29,3 +29,6 @@ Add roles to service account:
 
 Create new key:
 ![image](https://github.com/AlpyneDreams/spring-gumball/assets/3376691/d29b3711-702c-44a1-bd6d-99ade24b99ea)
+
+Add secrets to GitHub:
+![image](https://github.com/AlpyneDreams/spring-gumball/assets/3376691/8c43e3cd-b494-4f20-9c34-cb20bdf17368)
