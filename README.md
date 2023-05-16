@@ -32,3 +32,9 @@ Create new key:
 
 Add secrets to GitHub:
 ![image](https://github.com/AlpyneDreams/spring-gumball/assets/3376691/8c43e3cd-b494-4f20-9c34-cb20bdf17368)
+
+Adding gke action: (see .github/workflows/gke.yml)
+
+Creating a new release:
+![image](https://github.com/AlpyneDreams/spring-gumball/assets/3376691/a2c505b0-d6bb-4191-85a2-39929213244f)
+
